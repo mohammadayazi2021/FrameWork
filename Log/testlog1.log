@@ -1,0 +1,430 @@
+2021-02-04 21:32:48,120 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:32:52,076 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:32:52,084 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:32:52,646 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:32:53,486 [main] INFO logger_File - User clicked on search button
+2021-02-04 21:32:53,837 [main] INFO logger_File - iPhone image is displayed
+2021-02-04 21:32:54,448 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-04 23:23:33,594 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 23:23:39,233 [main] INFO logger_File - Retail page is opened
+2021-02-04 23:23:39,247 [main] INFO logger_File - Page title  is verified
+2021-02-04 23:23:40,416 [main] INFO logger_File - User entered value in search bar
+2021-02-04 23:23:41,922 [main] INFO logger_File - User clicked on search button
+2021-02-04 23:23:42,599 [main] INFO logger_File - iPhone image is displayed
+2021-02-04 23:23:43,465 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-06 00:21:02,182 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-06 00:21:09,269 [main] INFO logger_File - Retail page is opened
+2021-02-06 00:21:09,280 [main] INFO logger_File - Page title  is verified
+2021-02-06 00:21:10,264 [main] INFO logger_File - User entered value in search bar
+2021-02-06 00:22:41,122 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-06 00:22:46,343 [main] INFO logger_File - Retail page is opened
+2021-02-06 00:22:46,354 [main] INFO logger_File - Page title  is verified
+2021-02-06 00:22:48,190 [main] INFO logger_File - Search functionality Test case   undefined
+2021-02-06 00:50:11,238 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-06 00:50:17,072 [main] INFO logger_File - Retail page is opened
+2021-02-06 00:50:17,084 [main] INFO logger_File - Page title  is verified
+2021-02-06 00:50:18,101 [main] INFO logger_File - User entered value in search bar
+2021-02-07 18:50:55,013 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:51:04,866 [main] INFO logger_File - Retail page is opened
+2021-02-07 18:51:04,892 [main] INFO logger_File - Page title  is verified
+2021-02-07 18:51:08,156 [main] INFO logger_File - Search functionality Test case   undefined
+2021-02-07 18:53:20,120 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:53:28,434 [main] INFO logger_File - Retail page is opened
+2021-02-07 18:53:28,473 [main] INFO logger_File - Page title  is verified
+2021-02-07 18:53:30,020 [main] INFO logger_File - User entered value in search bar
+2021-02-07 18:54:37,763 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:54:46,685 [main] INFO logger_File - Retail page is opened
+2021-02-07 18:54:46,753 [main] INFO logger_File - Page title  is verified
+2021-02-07 18:54:48,101 [main] INFO logger_File - User entered value in search bar
+2021-02-07 20:59:16,541 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 20:59:24,213 [main] INFO logger_File - Retail page is opened
+2021-02-07 20:59:24,227 [main] INFO logger_File - Page title  is verified
+2021-02-07 20:59:25,370 [main] INFO logger_File - User entered value in search bar
+2021-02-07 21:07:38,554 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:07:43,763 [main] INFO logger_File - Retail page is opened
+2021-02-07 21:07:43,776 [main] INFO logger_File - Page title  is verified
+2021-02-07 21:07:44,856 [main] INFO logger_File - User entered value in search bar
+2021-02-07 21:19:55,003 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:19:59,826 [main] INFO logger_File - Retail page is opened
+2021-02-07 21:19:59,837 [main] INFO logger_File - Page title  is verified
+2021-02-07 21:20:01,562 [main] INFO logger_File - Search functionality Test case   undefined
+2021-02-07 21:42:29,846 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:42:36,376 [main] INFO logger_File - Retail page is opened
+2021-02-07 21:42:36,391 [main] INFO logger_File - Page title  is verified
+2021-02-07 21:42:37,624 [main] INFO logger_File - User entered value in search bar
+2021-02-07 21:43:24,476 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 22:05:58,174 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 22:06:02,939 [main] INFO logger_File - Retail page is opened
+2021-02-07 22:06:02,952 [main] INFO logger_File - Page title  is verified
+2021-02-07 22:06:04,128 [main] INFO logger_File - User entered value in search bar
+2021-02-07 22:17:42,881 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 22:17:48,665 [main] INFO logger_File - Retail page is opened
+2021-02-07 22:17:48,679 [main] INFO logger_File - Page title  is verified
+2021-02-07 22:17:50,233 [main] INFO logger_File - User entered value in search bar
+2021-02-07 22:18:41,479 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-08 00:33:49,046 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 00:33:58,284 [main] INFO logger_File - Retail page is opened
+2021-02-08 00:33:58,314 [main] INFO logger_File - Page title  is verified
+2021-02-08 00:33:59,334 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:07:24,449 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 18:07:30,134 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:07:30,144 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:07:31,424 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:08:18,317 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-08 18:19:29,785 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 18:19:34,746 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:19:34,762 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:19:36,026 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:19:37,561 [main] INFO logger_File - User click on search button
+2021-02-08 18:19:38,384 [main] INFO logger_File - iphone image is displayed
+2021-02-08 18:19:39,228 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 18:33:31,755 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-08 18:33:38,595 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:33:38,609 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:33:39,889 [main] INFO logger_File - User click on My Account
+2021-02-08 18:33:40,320 [main] INFO logger_File - User click on Login
+2021-02-08 18:33:44,006 [main] INFO logger_File - User enter email address
+2021-02-08 18:33:44,103 [main] INFO logger_File - User enter password
+2021-02-08 18:33:45,791 [main] INFO logger_File - User click on Login button
+2021-02-08 18:33:50,199 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-08 18:33:50,209 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:33:54,872 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:33:54,881 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:33:55,934 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:33:57,221 [main] INFO logger_File - User click on search button
+2021-02-08 18:33:58,004 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 18:33:58,023 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:34:02,652 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:34:02,662 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:34:03,724 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:34:05,132 [main] INFO logger_File - User click on search button
+2021-02-08 18:34:06,017 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 18:34:06,036 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:34:10,116 [main] INFO logger_File - Retail page is opened
+2021-02-08 18:34:10,124 [main] INFO logger_File - Page title  is verified
+2021-02-08 18:34:11,277 [main] INFO logger_File - User entered value in search bar
+2021-02-08 18:34:12,882 [main] INFO logger_File - User click on search button
+2021-02-08 18:34:13,819 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 20:34:04,374 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 20:34:11,151 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:34:11,165 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:34:13,739 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-08 22:20:22,397 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 22:20:28,404 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:20:28,418 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:21:14,962 [main] INFO logger_File - Register an Account test case   failed
+2021-02-08 22:31:15,270 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 22:31:22,167 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:31:22,180 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:31:23,983 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-08 22:54:17,145 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 22:54:22,403 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:54:22,418 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:54:24,227 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-08 22:55:04,903 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-08 22:55:10,097 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:55:10,109 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:55:11,098 [main] INFO logger_File - User click on My Account
+2021-02-08 22:55:11,633 [main] INFO logger_File - User click on Login
+2021-02-08 22:55:15,247 [main] INFO logger_File - User enter email address
+2021-02-08 22:55:15,328 [main] INFO logger_File - User enter password
+2021-02-08 22:55:16,724 [main] INFO logger_File - User click on Login button
+2021-02-08 22:55:21,093 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-08 22:55:21,127 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 22:55:27,288 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:55:27,297 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:55:28,409 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:55:29,716 [main] INFO logger_File - User click on search button
+2021-02-08 22:55:30,545 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 22:55:30,562 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 22:55:34,941 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:55:34,948 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:55:35,908 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:55:37,253 [main] INFO logger_File - User click on search button
+2021-02-08 22:55:38,036 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 22:55:38,046 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 22:55:42,625 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:55:42,633 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:55:43,370 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:55:44,834 [main] INFO logger_File - User click on search button
+2021-02-08 22:55:45,622 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 22:56:36,768 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 22:56:41,897 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:56:41,907 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:56:43,007 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:56:44,383 [main] INFO logger_File - User click on search button
+2021-02-08 22:56:45,047 [main] INFO logger_File - iphone image is displayed
+2021-02-08 22:56:45,872 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 22:56:45,910 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 22:56:52,045 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:56:52,057 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:56:53,016 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:56:56,140 [main] INFO logger_File - User click on search button
+2021-02-08 22:56:56,943 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 22:56:56,970 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 22:57:01,347 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:57:01,354 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:57:02,271 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:57:03,636 [main] INFO logger_File - User click on search button
+2021-02-08 22:57:04,385 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 22:57:04,410 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 22:57:08,448 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:57:08,458 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:57:09,363 [main] INFO logger_File - User entered value in search bar
+2021-02-08 22:57:10,709 [main] INFO logger_File - User click on search button
+2021-02-08 22:57:11,557 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-08 22:57:11,608 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 22:57:15,778 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:57:15,787 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:57:17,435 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-09 14:57:31,458 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 14:57:39,133 [main] INFO logger_File - Retail page is opened
+2021-02-09 14:57:39,152 [main] INFO logger_File - Page title  is verified
+2021-02-09 14:57:41,727 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-09 15:24:43,720 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-09 15:24:49,847 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:24:49,865 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:24:51,132 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:24:52,665 [main] INFO logger_File - User click on search button
+2021-02-09 15:24:53,494 [main] INFO logger_File - iphone image is displayed
+2021-02-09 15:24:54,373 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-09 15:24:54,392 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-09 15:25:00,717 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:25:00,751 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:25:02,191 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:25:03,768 [main] INFO logger_File - User click on search button
+2021-02-09 15:25:06,180 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-09 15:25:06,188 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-09 15:25:17,237 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:25:17,248 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:25:18,034 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:25:19,492 [main] INFO logger_File - User click on search button
+2021-02-09 15:25:21,304 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-09 15:25:21,336 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-09 15:25:25,183 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:25:25,191 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:25:26,403 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:25:28,084 [main] INFO logger_File - User click on search button
+2021-02-09 15:25:28,845 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-09 15:25:28,854 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:25:36,750 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:25:36,763 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:25:38,883 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-09 15:29:09,573 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:29:16,274 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:29:16,334 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:29:38,400 [main] INFO logger_File - User clicked on Register option
+2021-02-09 15:34:09,446 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-09 15:34:16,978 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:34:16,996 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:34:18,087 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:34:20,209 [main] INFO logger_File - User click on search button
+2021-02-09 15:34:20,810 [main] INFO logger_File - iphone image is displayed
+2021-02-09 15:34:21,619 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-09 15:34:21,635 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-09 15:34:26,359 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:34:26,368 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:34:27,184 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:34:28,722 [main] INFO logger_File - User click on search button
+2021-02-09 15:34:30,049 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-09 15:34:30,056 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-09 15:34:34,965 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:34:34,974 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:34:36,100 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:34:37,578 [main] INFO logger_File - User click on search button
+2021-02-09 15:34:38,337 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-09 15:34:38,355 [main] INFO logger_File - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-09 15:34:44,976 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:34:44,985 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:34:46,148 [main] INFO logger_File - User entered value in search bar
+2021-02-09 15:34:47,622 [main] INFO logger_File - User click on search button
+2021-02-09 15:34:48,397 [main] INFO logger_File - Test Search functionality with multiple set of Data   passed
+2021-02-09 15:34:48,407 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:34:53,075 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:34:53,091 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:35:39,752 [main] INFO logger_File - Register an Account test case   failed
+2021-02-09 15:39:12,008 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 15:39:19,686 [main] INFO logger_File - Retail page is opened
+2021-02-09 15:39:19,721 [main] INFO logger_File - Page title  is verified
+2021-02-09 15:39:21,491 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-09 18:19:09,538 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 18:19:18,478 [main] INFO logger_File - Retail page is opened
+2021-02-09 18:19:18,493 [main] INFO logger_File - Page title  is verified
+2021-02-09 18:19:20,315 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-09 19:57:34,575 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 19:57:38,929 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 19:57:39,741 [main] INFO logger_File - Execute all information from Actor Table   failed
+2021-02-09 20:04:42,920 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:04:46,773 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:04:47,611 [main] INFO logger_File - Execute all information from Actor Table   failed
+2021-02-09 20:47:11,755 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:47:15,915 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:47:15,960 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:47:16,029 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:47:16,032 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:47:16,986 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-15 18:27:01,995 [main] INFO logger_File - Scenario User verify all item are present in Desktops tab Started 
+2021-02-15 18:27:32,735 [main] INFO logger_File - Retail page is opened
+2021-02-15 18:27:32,773 [main] INFO logger_File - Page title  is verified
+2021-02-15 18:27:34,687 [main] INFO logger_File - User verify all item are present in Desktops tab   undefined
+2021-02-15 19:23:50,511 [main] INFO logger_File - Scenario User verify all item are present in Desktops tab Started 
+2021-02-15 19:23:55,647 [main] INFO logger_File - Retail page is opened
+2021-02-15 19:23:55,661 [main] INFO logger_File - Page title  is verified
+2021-02-15 19:23:57,720 [main] INFO logger_File - User verify all item are present in Desktops tab   failed
+2021-02-15 19:27:43,773 [main] INFO logger_File - Scenario User verify all item are present in Desktops tab Started 
+2021-02-15 19:27:50,937 [main] INFO logger_File - Retail page is opened
+2021-02-15 19:27:50,958 [main] INFO logger_File - Page title  is verified
+2021-02-15 19:27:51,854 [main] INFO logger_File - User click on desktops tab
+2021-02-15 19:27:52,834 [main] INFO logger_File - User click on Show all desktop
+2021-02-15 19:27:54,639 [main] INFO logger_File - User verify all item are present in Desktops tab   passed
+2021-02-15 21:16:37,524 [main] INFO logger_File - Scenario User verify all item are present in Desktops tab Started 
+2021-02-15 21:16:45,780 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:16:45,793 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:16:46,913 [main] INFO logger_File - User click on desktops tab
+2021-02-15 21:16:48,010 [main] INFO logger_File - User click on Show all desktop
+2021-02-15 21:16:49,992 [main] INFO logger_File - User verify all item are present in Desktops tab   passed
+2021-02-15 21:25:44,234 [main] INFO logger_File - Scenario User verify all item are present in Desktops tab Started 
+2021-02-15 21:25:50,478 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:25:50,509 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:25:51,318 [main] INFO logger_File - User click on Desktops tab
+2021-02-15 21:25:53,538 [main] INFO logger_File - User click on Show all desktops
+2021-02-15 21:25:55,138 [main] INFO logger_File - User verify all item are present in Desktops tab   passed
+2021-02-15 21:25:55,168 [main] INFO logger_File - Scenario  Started 
+2021-02-15 21:26:00,726 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:26:00,750 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:26:01,755 [main] INFO logger_File - User click on Desktops tab
+2021-02-15 21:26:03,821 [main] INFO logger_File - User click on Show all desktops
+2021-02-15 21:26:50,678 [main] INFO logger_File -    failed
+2021-02-15 21:28:26,032 [main] INFO logger_File - Scenario User verify all item are present in Desktops tab Started 
+2021-02-15 21:28:33,225 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:28:33,263 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:28:34,420 [main] INFO logger_File - User click on Desktops tab
+2021-02-15 21:28:36,312 [main] INFO logger_File - User click on Show all desktops
+2021-02-15 21:28:38,045 [main] INFO logger_File - User verify all item are present in Desktops tab   passed
+2021-02-15 21:28:38,060 [main] INFO logger_File - Scenario  Started 
+2021-02-15 21:28:43,028 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:28:43,037 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:28:44,009 [main] INFO logger_File - User click on Desktops tab
+2021-02-15 21:28:45,833 [main] INFO logger_File - User click on Show all desktops
+2021-02-15 21:29:32,532 [main] INFO logger_File -    failed
+2021-02-15 21:34:48,227 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-15 21:34:58,272 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:34:58,291 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:34:59,251 [main] INFO logger_File - User entered value in search bar
+2021-02-15 21:35:00,838 [main] INFO logger_File - User click on search button
+2021-02-15 21:35:01,822 [main] INFO logger_File - iphone image is displayed
+2021-02-15 21:35:02,721 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-15 21:35:02,743 [main] INFO logger_File - Scenario  Started 
+2021-02-15 21:35:07,938 [main] INFO logger_File - Retail page is opened
+2021-02-15 21:35:07,954 [main] INFO logger_File - Page title  is verified
+2021-02-15 21:35:08,733 [main] INFO logger_File - User click on Desktops tab
+2021-02-15 21:35:13,381 [main] INFO logger_File - User click on Show all desktops
+2021-02-15 21:36:00,075 [main] INFO logger_File -    failed
+2021-02-15 22:25:33,530 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:25:38,869 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:25:38,884 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:25:41,083 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-15 22:33:57,057 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:34:04,611 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:34:04,630 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:34:06,833 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-15 22:37:28,196 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:37:36,491 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:37:36,502 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:37:38,762 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-15 22:39:57,470 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:40:05,122 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:40:05,140 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:40:09,807 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-15 22:43:48,664 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:43:54,724 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:43:54,738 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:44:08,174 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-15 22:44:46,489 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:44:51,756 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:44:51,773 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:45:05,812 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-15 22:50:17,786 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 22:50:23,889 [main] INFO logger_File - Retail page is opened
+2021-02-15 22:50:23,908 [main] INFO logger_File - Page title  is verified
+2021-02-15 22:50:34,433 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-15 23:00:56,406 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 23:01:01,486 [main] INFO logger_File - Retail page is opened
+2021-02-15 23:01:01,505 [main] INFO logger_File - Page title  is verified
+2021-02-15 23:01:16,999 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-15 23:03:56,543 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 23:04:05,410 [main] INFO logger_File - Retail page is opened
+2021-02-15 23:04:05,425 [main] INFO logger_File - Page title  is verified
+2021-02-15 23:04:13,942 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-15 23:08:43,291 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 23:08:49,852 [main] INFO logger_File - Retail page is opened
+2021-02-15 23:08:49,867 [main] INFO logger_File - Page title  is verified
+2021-02-15 23:09:00,954 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-15 23:13:10,164 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 23:13:15,583 [main] INFO logger_File - Retail page is opened
+2021-02-15 23:13:15,597 [main] INFO logger_File - Page title  is verified
+2021-02-15 23:13:31,376 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 00:25:32,208 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 00:25:44,551 [main] INFO logger_File - Retail page is opened
+2021-02-16 00:25:44,563 [main] INFO logger_File - Page title  is verified
+2021-02-16 00:25:48,650 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-02-16 00:26:22,922 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 00:26:28,522 [main] INFO logger_File - Retail page is opened
+2021-02-16 00:26:28,538 [main] INFO logger_File - Page title  is verified
+2021-02-16 00:26:43,347 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:09:34,637 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:09:41,557 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:09:41,590 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:09:48,192 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:14:47,862 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:14:53,874 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:14:53,886 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:15:00,985 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:18:29,478 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 01:18:41,357 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:18:41,368 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:18:49,829 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:18:49,849 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:18:54,413 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:18:54,428 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:19:01,333 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:25:36,401 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 01:25:44,501 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:25:44,517 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:25:58,081 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:25:58,093 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:26:03,440 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:26:03,461 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:26:09,984 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:31:40,626 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 01:31:45,818 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:31:45,837 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:32:01,335 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:32:01,348 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:32:05,965 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:32:05,997 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:32:13,242 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:33:16,989 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 01:33:22,701 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:33:22,713 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:33:38,094 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:33:38,116 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:33:44,807 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:33:44,817 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:33:51,010 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:41:13,891 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 01:41:26,187 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:41:26,203 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:41:34,609 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:41:34,625 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:41:38,931 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:41:38,940 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:41:52,440 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-02-16 01:44:02,541 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 01:44:07,974 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:44:07,994 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:44:22,931 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-02-16 01:44:22,946 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-02-16 01:44:27,790 [main] INFO logger_File - Retail page is opened
+2021-02-16 01:44:27,800 [main] INFO logger_File - Page title  is verified
+2021-02-16 01:44:39,469 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
