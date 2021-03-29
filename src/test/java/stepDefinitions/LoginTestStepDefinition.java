@@ -15,7 +15,7 @@ public class LoginTestStepDefinition extends Base {
 	// we need to create obj of loginPageObj
 	LoginPageObj loginPageObj = new LoginPageObj();
 	
-
+	
 	@Given("^User is on Retail website$")
 	public void user_is_on_Retail_website() throws Throwable {
 

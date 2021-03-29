@@ -428,3 +428,466 @@
 2021-02-16 01:44:27,790 - logger_File -INFO - Retail page is opened
 2021-02-16 01:44:27,800 - logger_File -INFO - Page title  is verified
 2021-02-16 01:44:39,469 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-02-20 20:42:24,090 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-20 20:42:30,211 - logger_File -INFO - Retail page is opened
+2021-02-20 20:42:30,222 - logger_File -INFO - Page title  is verified
+2021-02-20 20:42:32,246 - logger_File -INFO - Adding an item to Wish list   undefined
+2021-02-20 21:13:25,882 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-20 21:13:30,770 - logger_File -INFO - Retail page is opened
+2021-02-20 21:13:30,783 - logger_File -INFO - Page title  is verified
+2021-02-20 21:23:25,467 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-20 21:23:32,109 - logger_File -INFO - Retail page is opened
+2021-02-20 21:23:32,121 - logger_File -INFO - Page title  is verified
+2021-02-20 21:25:05,777 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-20 21:25:10,914 - logger_File -INFO - Retail page is opened
+2021-02-20 21:25:10,924 - logger_File -INFO - Page title  is verified
+2021-02-20 21:25:59,163 - logger_File -INFO - Adding an item to Wish list   failed
+2021-02-20 21:28:13,933 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-20 21:28:19,229 - logger_File -INFO - Retail page is opened
+2021-02-20 21:28:19,239 - logger_File -INFO - Page title  is verified
+2021-02-20 21:28:22,641 - logger_File -INFO - Adding an item to Wish list   passed
+2021-02-20 22:10:28,481 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-20 22:10:33,697 - logger_File -INFO - Retail page is opened
+2021-02-20 22:10:33,715 - logger_File -INFO - Page title  is verified
+2021-02-20 22:10:37,440 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-02-20 22:17:23,568 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-20 22:17:30,216 - logger_File -INFO - Retail page is opened
+2021-02-20 22:17:30,229 - logger_File -INFO - Page title  is verified
+2021-02-20 22:17:42,179 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-02-21 00:48:36,329 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-21 00:48:41,766 - logger_File -INFO - Retail page is opened
+2021-02-21 00:48:41,780 - logger_File -INFO - Page title  is verified
+2021-02-21 00:48:42,893 - logger_File -INFO - User click on My Account
+2021-02-21 00:48:43,743 - logger_File -INFO - Login to Existing Account   undefined
+2021-02-21 00:52:13,394 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-21 00:52:18,422 - logger_File -INFO - Retail page is opened
+2021-02-21 00:52:18,434 - logger_File -INFO - Page title  is verified
+2021-02-21 00:52:19,636 - logger_File -INFO - User click on My Account
+2021-02-21 00:52:20,740 - logger_File -INFO - Login to Existing Account   undefined
+2021-02-21 01:08:06,939 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-21 01:08:11,841 - logger_File -INFO - Retail page is opened
+2021-02-21 01:08:11,852 - logger_File -INFO - Page title  is verified
+2021-02-21 01:08:13,156 - logger_File -INFO - User click on My Account
+2021-02-21 01:08:13,508 - logger_File -INFO - User clicked on Login
+2021-02-21 01:08:18,977 - logger_File -INFO - Login to Existing Account   passed
+2021-02-21 01:10:57,866 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-21 01:11:02,454 - logger_File -INFO - Retail page is opened
+2021-02-21 01:11:02,466 - logger_File -INFO - Page title  is verified
+2021-02-21 01:11:03,574 - logger_File -INFO - User click on My Account
+2021-02-21 01:11:03,892 - logger_File -INFO - User clicked on Login
+2021-02-21 01:11:25,986 - logger_File -INFO - Login to Existing Account   passed
+2021-02-21 15:37:45,860 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-21 15:37:51,273 - logger_File -INFO - Retail page is opened
+2021-02-21 15:37:51,300 - logger_File -INFO - Page title  is verified
+2021-02-21 15:37:52,585 - logger_File -INFO - User click on My Account
+2021-02-21 15:37:52,924 - logger_File -INFO - User clicked on Login
+2021-02-21 15:38:15,045 - logger_File -INFO - Login to Existing Account   passed
+2021-02-21 15:46:11,734 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-21 15:46:16,995 - logger_File -INFO - Retail page is opened
+2021-02-21 15:46:17,007 - logger_File -INFO - Page title  is verified
+2021-02-21 15:46:18,248 - logger_File -INFO - User click on My Account
+2021-02-21 15:46:18,562 - logger_File -INFO - User clicked on Login
+2021-02-21 15:46:33,801 - logger_File -INFO - Login to Existing Account   passed
+2021-02-21 15:49:22,436 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-21 15:49:27,807 - logger_File -INFO - Retail page is opened
+2021-02-21 15:49:27,828 - logger_File -INFO - Page title  is verified
+2021-02-21 15:49:32,041 - logger_File -INFO - Adding an item to Wish list   passed
+2021-02-21 15:49:32,057 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-21 15:49:35,796 - logger_File -INFO - Retail page is opened
+2021-02-21 15:49:35,805 - logger_File -INFO - Page title  is verified
+2021-02-21 15:49:48,059 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-02-21 17:02:26,866 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-21 17:02:32,301 - logger_File -INFO - Retail page is opened
+2021-02-21 17:02:32,312 - logger_File -INFO - Page title  is verified
+2021-02-21 17:02:35,722 - logger_File -INFO - Adding an item to Wish list   passed
+2021-02-21 17:02:35,738 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-21 17:02:40,148 - logger_File -INFO - Retail page is opened
+2021-02-21 17:02:40,155 - logger_File -INFO - Page title  is verified
+2021-02-21 17:02:51,890 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-02-21 17:05:55,098 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-21 17:06:02,287 - logger_File -INFO - Retail page is opened
+2021-02-21 17:06:02,296 - logger_File -INFO - Page title  is verified
+2021-02-21 17:06:17,935 - logger_File -INFO - Adding an item to Wish list   passed
+2021-02-21 17:06:17,951 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-21 17:06:23,823 - logger_File -INFO - Retail page is opened
+2021-02-21 17:06:23,832 - logger_File -INFO - Page title  is verified
+2021-02-21 17:06:38,005 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-02-21 17:43:49,472 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-21 17:43:57,251 - logger_File -INFO - Retail page is opened
+2021-02-21 17:43:57,262 - logger_File -INFO - Page title  is verified
+2021-02-21 17:43:59,111 - logger_File -INFO - Register an Account test case   undefined
+2021-02-21 17:44:58,965 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-21 17:45:03,969 - logger_File -INFO - Retail page is opened
+2021-02-21 17:45:03,982 - logger_File -INFO - Page title  is verified
+2021-02-21 17:45:05,139 - logger_File -INFO - User click on My Account
+2021-02-21 17:45:05,605 - logger_File -INFO - User click on Login
+2021-02-21 17:45:09,238 - logger_File -INFO - User enter email address
+2021-02-21 17:45:09,327 - logger_File -INFO - User enter password
+2021-02-21 17:45:10,740 - logger_File -INFO - User click on Login button
+2021-02-21 17:45:15,010 - logger_File -INFO - Login to MyAccount   passed
+2021-02-21 17:45:15,048 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-21 17:45:19,053 - logger_File -INFO - Retail page is opened
+2021-02-21 17:45:19,061 - logger_File -INFO - Page title  is verified
+2021-02-21 17:45:20,046 - logger_File -INFO - User entered value in search bar
+2021-02-21 17:45:21,371 - logger_File -INFO - User click on search button
+2021-02-21 17:45:22,185 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-21 17:45:22,203 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-21 17:45:26,151 - logger_File -INFO - Retail page is opened
+2021-02-21 17:45:26,159 - logger_File -INFO - Page title  is verified
+2021-02-21 17:45:27,187 - logger_File -INFO - User entered value in search bar
+2021-02-21 17:45:28,442 - logger_File -INFO - User click on search button
+2021-02-21 17:45:29,277 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-21 17:45:29,295 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-21 17:45:33,564 - logger_File -INFO - Retail page is opened
+2021-02-21 17:45:33,571 - logger_File -INFO - Page title  is verified
+2021-02-21 17:45:34,711 - logger_File -INFO - User entered value in search bar
+2021-02-21 17:45:36,013 - logger_File -INFO - User click on search button
+2021-02-21 17:45:36,873 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-24 21:09:56,555 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-24 21:10:06,894 - logger_File -INFO - Retail page is opened
+2021-02-24 21:10:06,914 - logger_File -INFO - Page title  is verified
+2021-02-24 21:10:25,050 - logger_File -INFO - Adding an item to Wish list   passed
+2021-02-24 21:10:25,087 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-24 21:10:29,492 - logger_File -INFO - Retail page is opened
+2021-02-24 21:10:29,501 - logger_File -INFO - Page title  is verified
+2021-02-24 21:10:44,666 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-02-24 21:11:42,199 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-02-24 21:11:48,049 - logger_File -INFO - Retail page is opened
+2021-02-24 21:11:48,061 - logger_File -INFO - Page title  is verified
+2021-02-24 21:12:03,744 - logger_File -INFO - Adding an item to Wish list   passed
+2021-02-24 21:12:03,779 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-02-24 21:12:07,767 - logger_File -INFO - Retail page is opened
+2021-02-24 21:12:07,775 - logger_File -INFO - Page title  is verified
+2021-02-24 21:12:22,826 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-02-25 23:20:55,778 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-02-25 23:21:46,334 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-02-25 23:22:05,279 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-02-25 23:24:07,551 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-25 23:24:13,037 - logger_File -INFO - Retail page is opened
+2021-02-25 23:24:13,053 - logger_File -INFO - Page title  is verified
+2021-02-25 23:24:14,177 - logger_File -INFO - User click on My Account
+2021-02-25 23:24:14,534 - logger_File -INFO - User clicked on Login
+2021-02-25 23:24:29,756 - logger_File -INFO - Login to Existing Account   passed
+2021-02-25 23:25:25,328 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-02-25 23:25:32,644 - logger_File -INFO - Retail page is opened
+2021-02-25 23:25:32,656 - logger_File -INFO - Page title  is verified
+2021-02-25 23:25:33,753 - logger_File -INFO - User click on My Account
+2021-02-25 23:25:36,311 - logger_File -INFO - User clicked on Login
+2021-02-25 23:25:50,918 - logger_File -INFO - User click on ‘Register for an Affiliate Account
+2021-02-25 23:25:52,295 - logger_File -INFO - Login to Existing Account   failed
+2021-03-25 12:28:30,660 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 12:28:41,490 - logger_File -INFO - Retail page is opened
+2021-03-25 12:28:41,513 - logger_File -INFO - Page title  is verified
+2021-03-25 12:28:49,195 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   undefined
+2021-03-25 12:56:36,506 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-03-25 12:56:44,873 - logger_File -INFO - Retail page is opened
+2021-03-25 12:56:44,900 - logger_File -INFO - Page title  is verified
+2021-03-25 12:56:50,603 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-03-25 12:56:50,641 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 12:56:55,444 - logger_File -INFO - Retail page is opened
+2021-03-25 12:56:55,456 - logger_File -INFO - Page title  is verified
+2021-03-25 12:57:07,440 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 12:57:07,455 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 12:57:12,299 - logger_File -INFO - Retail page is opened
+2021-03-25 12:57:12,311 - logger_File -INFO - Page title  is verified
+2021-03-25 12:57:20,134 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 12:57:20,155 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 12:57:24,857 - logger_File -INFO - Retail page is opened
+2021-03-25 12:57:24,915 - logger_File -INFO - Page title  is verified
+2021-03-25 12:57:51,374 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 13:36:34,550 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-25 13:36:43,974 - logger_File -INFO - Retail page is opened
+2021-03-25 13:36:43,994 - logger_File -INFO - Page title  is verified
+2021-03-25 13:36:59,912 - logger_File -INFO - Adding an item to Wish list   passed
+2021-03-25 13:37:46,441 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-25 13:37:54,268 - logger_File -INFO - Retail page is opened
+2021-03-25 13:37:54,287 - logger_File -INFO - Page title  is verified
+2021-03-25 13:38:10,114 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-25 13:38:55,158 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-25 13:39:03,283 - logger_File -INFO - Retail page is opened
+2021-03-25 13:39:03,298 - logger_File -INFO - Page title  is verified
+2021-03-25 13:39:19,451 - logger_File -INFO - Adding an item to Wish list   passed
+2021-03-25 13:39:19,468 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-25 13:39:25,815 - logger_File -INFO - Retail page is opened
+2021-03-25 13:39:25,824 - logger_File -INFO - Page title  is verified
+2021-03-25 13:39:41,463 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-25 15:16:19,144 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 15:16:25,521 - logger_File -INFO - Retail page is opened
+2021-03-25 15:16:25,536 - logger_File -INFO - Page title  is verified
+2021-03-25 15:16:48,449 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-03-25 15:17:27,862 - logger_File -INFO - Scenario Product Comparison Started 
+2021-03-25 15:17:35,525 - logger_File -INFO - Retail page is opened
+2021-03-25 15:17:35,542 - logger_File -INFO - Page title  is verified
+2021-03-25 15:17:53,930 - logger_File -INFO - Product Comparison   passed
+2021-03-25 15:18:33,554 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-25 15:18:40,770 - logger_File -INFO - Retail page is opened
+2021-03-25 15:18:40,786 - logger_File -INFO - Page title  is verified
+2021-03-25 15:18:54,195 - logger_File -INFO - Adding an item to Wish list   passed
+2021-03-25 15:21:00,167 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-25 15:21:07,723 - logger_File -INFO - Retail page is opened
+2021-03-25 15:21:07,748 - logger_File -INFO - Page title  is verified
+2021-03-25 15:21:21,082 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-25 15:22:40,061 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-25 15:22:48,400 - logger_File -INFO - Retail page is opened
+2021-03-25 15:22:48,417 - logger_File -INFO - Page title  is verified
+2021-03-25 15:23:11,077 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-03-25 15:23:11,118 - logger_File -INFO - Scenario Product Comparison Started 
+2021-03-25 15:23:15,383 - logger_File -INFO - Retail page is opened
+2021-03-25 15:23:15,393 - logger_File -INFO - Page title  is verified
+2021-03-25 15:23:34,325 - logger_File -INFO - Product Comparison   passed
+2021-03-25 15:23:34,343 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-25 15:23:38,878 - logger_File -INFO - Retail page is opened
+2021-03-25 15:23:38,888 - logger_File -INFO - Page title  is verified
+2021-03-25 15:23:55,045 - logger_File -INFO - Adding an item to Wish list   passed
+2021-03-25 15:23:55,062 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-25 15:23:59,926 - logger_File -INFO - Retail page is opened
+2021-03-25 15:23:59,943 - logger_File -INFO - Page title  is verified
+2021-03-25 15:24:17,583 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-25 15:28:34,440 - logger_File -INFO - Scenario Login to Existing Account Started 
+2021-03-25 15:28:41,898 - logger_File -INFO - Retail page is opened
+2021-03-25 15:28:41,914 - logger_File -INFO - Page title  is verified
+2021-03-25 15:28:43,070 - logger_File -INFO - User click on My Account
+2021-03-25 15:28:43,578 - logger_File -INFO - User clicked on Login
+2021-03-25 15:28:58,726 - logger_File -INFO - User click on ‘Register for an Affiliate Account
+2021-03-25 15:29:00,184 - logger_File -INFO - Login to Existing Account   failed
+2021-03-25 16:24:39,809 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-03-25 16:24:47,043 - logger_File -INFO - Retail page is opened
+2021-03-25 16:24:47,072 - logger_File -INFO - Page title  is verified
+2021-03-25 16:24:57,578 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-03-25 16:24:57,593 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 16:25:02,318 - logger_File -INFO - Retail page is opened
+2021-03-25 16:25:02,333 - logger_File -INFO - Page title  is verified
+2021-03-25 16:25:21,151 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 16:25:21,178 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 16:25:27,886 - logger_File -INFO - Retail page is opened
+2021-03-25 16:25:27,898 - logger_File -INFO - Page title  is verified
+2021-03-25 16:25:50,220 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 16:25:50,249 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 16:25:54,855 - logger_File -INFO - Retail page is opened
+2021-03-25 16:25:54,864 - logger_File -INFO - Page title  is verified
+2021-03-25 16:26:22,410 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-03-25 16:46:37,261 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 16:46:43,755 - logger_File -INFO - Retail page is opened
+2021-03-25 16:46:43,791 - logger_File -INFO - Page title  is verified
+2021-03-25 16:46:44,806 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:46:48,400 - logger_File -INFO - User clicked on Login
+2021-03-25 16:48:07,066 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 16:48:13,129 - logger_File -INFO - Retail page is opened
+2021-03-25 16:48:13,150 - logger_File -INFO - Page title  is verified
+2021-03-25 16:48:14,258 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:48:17,919 - logger_File -INFO - User clicked on Login
+2021-03-25 16:49:06,250 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-25 16:49:06,271 - logger_File -INFO - Scenario  Started 
+2021-03-25 16:49:11,057 - logger_File -INFO - Retail page is opened
+2021-03-25 16:49:11,073 - logger_File -INFO - Page title  is verified
+2021-03-25 16:49:11,884 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:49:13,434 - logger_File -INFO - User clicked on Login
+2021-03-25 16:49:18,081 - logger_File -INFO - click on Edit your affiliate informationlink
+2021-03-25 16:49:18,624 - logger_File -INFO - click on Bank Transfer radio button
+2021-03-25 16:49:19,536 - logger_File -INFO - User fill Bank information with below information
+2021-03-25 16:49:20,556 - logger_File -INFO - User clicked on Continue button
+2021-03-25 16:49:20,625 - logger_File -INFO - User should see a success message
+2021-03-25 16:49:22,734 - logger_File -INFO -    passed
+2021-03-25 16:49:22,764 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 16:49:27,548 - logger_File -INFO - Retail page is opened
+2021-03-25 16:49:27,564 - logger_File -INFO - Page title  is verified
+2021-03-25 16:49:28,401 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:49:30,010 - logger_File -INFO - User clicked on Login
+2021-03-25 16:49:34,918 - logger_File -INFO - Edit your account information
+2021-03-25 16:49:36,136 - logger_File -INFO - User modify below information
+2021-03-25 16:49:37,443 - logger_File -INFO - click on continue button
+2021-03-25 16:49:38,115 - logger_File -INFO - Success: Your account has been successfully updated
+2021-03-25 16:49:39,470 - logger_File -INFO - Edit your account Information   passed
+2021-03-25 16:57:32,562 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 16:57:39,141 - logger_File -INFO - Retail page is opened
+2021-03-25 16:57:39,160 - logger_File -INFO - Page title  is verified
+2021-03-25 16:57:40,587 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:57:44,815 - logger_File -INFO - User clicked on Login
+2021-03-25 16:57:47,147 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-25 16:57:47,163 - logger_File -INFO - Scenario  Started 
+2021-03-25 16:57:51,765 - logger_File -INFO - Retail page is opened
+2021-03-25 16:57:51,777 - logger_File -INFO - Page title  is verified
+2021-03-25 16:57:52,676 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:57:54,305 - logger_File -INFO - User clicked on Login
+2021-03-25 16:57:55,773 - logger_File -INFO -    undefined
+2021-03-25 16:57:55,789 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 16:58:00,390 - logger_File -INFO - Retail page is opened
+2021-03-25 16:58:00,399 - logger_File -INFO - Page title  is verified
+2021-03-25 16:58:01,284 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:58:02,489 - logger_File -INFO - User clicked on Login
+2021-03-25 16:58:03,905 - logger_File -INFO - Edit your account Information   undefined
+2021-03-25 16:59:03,474 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 16:59:08,587 - logger_File -INFO - Retail page is opened
+2021-03-25 16:59:08,599 - logger_File -INFO - Page title  is verified
+2021-03-25 16:59:09,701 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:59:10,983 - logger_File -INFO - User clicked on Login
+2021-03-25 16:59:15,801 - logger_File -INFO - User click on ‘Register for an Affiliate Account
+2021-03-25 16:59:16,980 - logger_File -INFO - User fill affiliate form with below information
+2021-03-25 16:59:17,821 - logger_File -INFO - User Check On About Us Check Box
+2021-03-25 16:59:19,520 - logger_File -INFO - User clicked on Continue button
+2021-03-25 16:59:19,634 - logger_File -INFO - User should see a success message
+2021-03-25 16:59:21,004 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-25 16:59:21,021 - logger_File -INFO - Scenario  Started 
+2021-03-25 16:59:25,600 - logger_File -INFO - Retail page is opened
+2021-03-25 16:59:25,610 - logger_File -INFO - Page title  is verified
+2021-03-25 16:59:26,683 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:59:28,108 - logger_File -INFO - User clicked on Login
+2021-03-25 16:59:32,969 - logger_File -INFO - click on Edit your affiliate informationlink
+2021-03-25 16:59:33,623 - logger_File -INFO - click on Bank Transfer radio button
+2021-03-25 16:59:34,517 - logger_File -INFO - User fill Bank information with below information
+2021-03-25 16:59:35,504 - logger_File -INFO - User clicked on Continue button
+2021-03-25 16:59:35,564 - logger_File -INFO - User should see a success message
+2021-03-25 16:59:37,802 - logger_File -INFO -    passed
+2021-03-25 16:59:37,814 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 16:59:42,696 - logger_File -INFO - Retail page is opened
+2021-03-25 16:59:42,710 - logger_File -INFO - Page title  is verified
+2021-03-25 16:59:43,701 - logger_File -INFO - User click on MyAccount
+2021-03-25 16:59:44,916 - logger_File -INFO - User clicked on Login
+2021-03-25 16:59:49,515 - logger_File -INFO - Edit your account information
+2021-03-25 16:59:50,657 - logger_File -INFO - User modify below information
+2021-03-25 16:59:52,038 - logger_File -INFO - click on continue button
+2021-03-25 16:59:52,687 - logger_File -INFO - Success: Your account has been successfully updated
+2021-03-25 16:59:54,040 - logger_File -INFO - Edit your account Information   passed
+2021-03-25 22:59:42,349 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 22:59:48,283 - logger_File -INFO - Retail page is opened
+2021-03-25 22:59:48,306 - logger_File -INFO - Page title  is verified
+2021-03-25 22:59:49,161 - logger_File -INFO - User click on MyAccount
+2021-03-25 22:59:50,645 - logger_File -INFO - User clicked on Login
+2021-03-25 23:00:40,530 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-25 23:00:40,607 - logger_File -INFO - Scenario  Started 
+2021-03-25 23:00:45,213 - logger_File -INFO - Retail page is opened
+2021-03-25 23:00:45,239 - logger_File -INFO - Page title  is verified
+2021-03-25 23:00:46,041 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:00:47,319 - logger_File -INFO - User clicked on Login
+2021-03-25 23:00:51,477 - logger_File -INFO - click on Edit your affiliate informationlink
+2021-03-25 23:00:52,087 - logger_File -INFO - click on Bank Transfer radio button
+2021-03-25 23:00:52,916 - logger_File -INFO - User fill Bank information with below information
+2021-03-25 23:00:53,825 - logger_File -INFO - User clicked on Continue button
+2021-03-25 23:00:53,892 - logger_File -INFO - User should see a success message
+2021-03-25 23:00:55,376 - logger_File -INFO -    passed
+2021-03-25 23:00:55,390 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 23:00:59,731 - logger_File -INFO - Retail page is opened
+2021-03-25 23:00:59,754 - logger_File -INFO - Page title  is verified
+2021-03-25 23:01:00,756 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:01:02,028 - logger_File -INFO - User clicked on Login
+2021-03-25 23:01:07,515 - logger_File -INFO - Edit your account information
+2021-03-25 23:01:08,284 - logger_File -INFO - User modify below information
+2021-03-25 23:01:09,505 - logger_File -INFO - click on continue button
+2021-03-25 23:01:10,077 - logger_File -INFO - Success: Your account has been successfully updated
+2021-03-25 23:01:11,347 - logger_File -INFO - Edit your account Information   passed
+2021-03-25 23:09:15,634 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 23:09:21,083 - logger_File -INFO - Retail page is opened
+2021-03-25 23:09:21,096 - logger_File -INFO - Page title  is verified
+2021-03-25 23:09:22,086 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:09:23,404 - logger_File -INFO - User clicked on Login
+2021-03-25 23:09:27,723 - logger_File -INFO - User click on ‘Register for an Affiliate Account
+2021-03-25 23:09:28,574 - logger_File -INFO - User fill affiliate form with below information
+2021-03-25 23:09:29,130 - logger_File -INFO - User Check On About Us Check Box
+2021-03-25 23:09:30,323 - logger_File -INFO - User clicked on Continue button
+2021-03-25 23:09:30,379 - logger_File -INFO - User should see a success message
+2021-03-25 23:09:31,754 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-25 23:09:31,786 - logger_File -INFO - Scenario  Started 
+2021-03-25 23:09:36,010 - logger_File -INFO - Retail page is opened
+2021-03-25 23:09:36,046 - logger_File -INFO - Page title  is verified
+2021-03-25 23:09:36,924 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:09:38,068 - logger_File -INFO - User clicked on Login
+2021-03-25 23:09:43,419 - logger_File -INFO - click on Edit your affiliate informationlink
+2021-03-25 23:09:44,007 - logger_File -INFO - click on Bank Transfer radio button
+2021-03-25 23:09:44,902 - logger_File -INFO - User fill Bank information with below information
+2021-03-25 23:09:46,338 - logger_File -INFO - User clicked on Continue button
+2021-03-25 23:09:46,384 - logger_File -INFO - User should see a success message
+2021-03-25 23:09:47,683 - logger_File -INFO -    passed
+2021-03-25 23:09:47,695 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 23:09:51,845 - logger_File -INFO - Retail page is opened
+2021-03-25 23:09:51,851 - logger_File -INFO - Page title  is verified
+2021-03-25 23:09:52,830 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:09:54,053 - logger_File -INFO - User clicked on Login
+2021-03-25 23:09:59,232 - logger_File -INFO - Edit your account information
+2021-03-25 23:10:00,035 - logger_File -INFO - User modify below information
+2021-03-25 23:10:01,663 - logger_File -INFO - click on continue button
+2021-03-25 23:10:02,206 - logger_File -INFO - Success: Your account has been successfully updated
+2021-03-25 23:10:03,403 - logger_File -INFO - Edit your account Information   passed
+2021-03-25 23:15:22,520 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 23:15:28,058 - logger_File -INFO - Retail page is opened
+2021-03-25 23:15:28,070 - logger_File -INFO - Page title  is verified
+2021-03-25 23:15:29,098 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:15:30,292 - logger_File -INFO - User clicked on Login
+2021-03-25 23:15:31,710 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-25 23:15:31,743 - logger_File -INFO - Scenario  Started 
+2021-03-25 23:15:35,896 - logger_File -INFO - Retail page is opened
+2021-03-25 23:15:35,905 - logger_File -INFO - Page title  is verified
+2021-03-25 23:15:36,813 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:15:38,204 - logger_File -INFO - User clicked on Login
+2021-03-25 23:15:39,652 - logger_File -INFO -    failed
+2021-03-25 23:15:39,665 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 23:15:43,451 - logger_File -INFO - Retail page is opened
+2021-03-25 23:15:43,460 - logger_File -INFO - Page title  is verified
+2021-03-25 23:15:44,495 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:15:45,663 - logger_File -INFO - User clicked on Login
+2021-03-25 23:15:47,070 - logger_File -INFO - Edit your account Information   failed
+2021-03-25 23:18:42,836 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 23:18:48,642 - logger_File -INFO - Retail page is opened
+2021-03-25 23:18:48,652 - logger_File -INFO - Page title  is verified
+2021-03-25 23:18:49,647 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:18:50,931 - logger_File -INFO - User clicked on Login
+2021-03-25 23:18:52,315 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-25 23:18:52,340 - logger_File -INFO - Scenario  Started 
+2021-03-25 23:18:58,293 - logger_File -INFO - Retail page is opened
+2021-03-25 23:18:58,300 - logger_File -INFO - Page title  is verified
+2021-03-25 23:18:59,203 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:19:02,452 - logger_File -INFO - User clicked on Login
+2021-03-25 23:19:04,091 - logger_File -INFO -    undefined
+2021-03-25 23:19:04,110 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 23:19:08,186 - logger_File -INFO - Retail page is opened
+2021-03-25 23:19:08,193 - logger_File -INFO - Page title  is verified
+2021-03-25 23:19:09,069 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:19:10,309 - logger_File -INFO - User clicked on Login
+2021-03-25 23:19:11,696 - logger_File -INFO - Edit your account Information   undefined
+2021-03-25 23:23:52,593 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-25 23:24:00,323 - logger_File -INFO - Retail page is opened
+2021-03-25 23:24:00,342 - logger_File -INFO - Page title  is verified
+2021-03-25 23:24:01,279 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:24:03,764 - logger_File -INFO - User clicked on Login
+2021-03-25 23:24:06,440 - logger_File -INFO - User click on ‘Register for an Affiliate Account
+2021-03-25 23:24:07,354 - logger_File -INFO - User fill affiliate form with below information
+2021-03-25 23:24:07,924 - logger_File -INFO - User Check On About Us Check Box
+2021-03-25 23:24:09,217 - logger_File -INFO - User clicked on Continue button
+2021-03-25 23:24:09,273 - logger_File -INFO - User should see a success message
+2021-03-25 23:24:10,600 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   passed
+2021-03-25 23:24:10,626 - logger_File -INFO - Scenario  Started 
+2021-03-25 23:24:14,703 - logger_File -INFO - Retail page is opened
+2021-03-25 23:24:14,710 - logger_File -INFO - Page title  is verified
+2021-03-25 23:24:15,733 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:24:17,053 - logger_File -INFO - User clicked on Login
+2021-03-25 23:24:21,759 - logger_File -INFO - click on Edit your affiliate informationlink
+2021-03-25 23:24:22,337 - logger_File -INFO - click on Bank Transfer radio button
+2021-03-25 23:24:23,206 - logger_File -INFO - User fill Bank information with below information
+2021-03-25 23:24:24,083 - logger_File -INFO - User clicked on Continue button
+2021-03-25 23:24:24,132 - logger_File -INFO - User should see a success message
+2021-03-25 23:24:25,551 - logger_File -INFO -    passed
+2021-03-25 23:24:25,570 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-25 23:24:29,481 - logger_File -INFO - Retail page is opened
+2021-03-25 23:24:29,489 - logger_File -INFO - Page title  is verified
+2021-03-25 23:24:30,639 - logger_File -INFO - User click on MyAccount
+2021-03-25 23:24:31,794 - logger_File -INFO - User clicked on Login
+2021-03-25 23:24:37,856 - logger_File -INFO - Edit your account information
+2021-03-25 23:24:38,735 - logger_File -INFO - User modify below information
+2021-03-25 23:24:39,830 - logger_File -INFO - click on continue button
+2021-03-25 23:24:40,455 - logger_File -INFO - Success: Your account has been successfully updated
+2021-03-25 23:24:41,733 - logger_File -INFO - Edit your account Information   passed
+2021-03-25 23:29:41,185 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-03-25 23:29:49,126 - logger_File -INFO - Retail page is opened
+2021-03-25 23:29:49,141 - logger_File -INFO - Page title  is verified
+2021-03-25 23:29:57,581 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-03-25 23:29:57,588 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-25 23:30:03,510 - logger_File -INFO - Retail page is opened
+2021-03-25 23:30:03,517 - logger_File -INFO - Page title  is verified
+2021-03-25 23:30:20,821 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-25 23:30:20,851 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-03-25 23:30:25,124 - logger_File -INFO - Retail page is opened
+2021-03-25 23:30:25,132 - logger_File -INFO - Page title  is verified
+2021-03-25 23:30:49,330 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-03-25 23:30:49,359 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-03-25 23:30:53,729 - logger_File -INFO - Retail page is opened
+2021-03-25 23:30:53,737 - logger_File -INFO - Page title  is verified
+2021-03-25 23:31:21,033 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed

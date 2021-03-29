@@ -17,7 +17,7 @@ import utilities.WebDriverUtility;
 
 
 public class RetailPageTestStepDefinitions extends Base {
-
+	
 	// In this class we will write Actual Java/Selenium codes associated to each
 	// Sceanrio
 	// Steps.
